@@ -18,6 +18,7 @@ public class MainBoot {
         System.out.println("容器中Tom组件："+user);//false
         boolean pet = run.containsBean("pet");
         System.out.println("容器中user01组件："+pet);//true
+        System.out.println("hot-hix分支");
 
     }
 }
