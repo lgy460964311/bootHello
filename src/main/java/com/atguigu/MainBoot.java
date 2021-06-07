@@ -21,6 +21,7 @@ public class MainBoot {
         System.out.println("hot-hix分支");
         System.out.println("master冲突测试======");
         System.out.println("测试冲突提交hot-hix======");
+        System.out.println("github push 推送");
 
     }
 }
