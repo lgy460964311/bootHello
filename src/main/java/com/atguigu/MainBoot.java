@@ -1,6 +1,5 @@
 package com.atguigu;
 
-import ch.qos.logback.core.net.SyslogOutputStream;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
@@ -21,5 +20,7 @@ public class MainBoot {
         System.out.println("容器中user01组件："+pet);//true
         System.out.println("hot-hix分支");
         System.out.println("master冲突测试======");
+        System.out.println("测试冲突提交hot-hix======");
+
     }
 }
