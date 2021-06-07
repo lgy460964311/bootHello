@@ -19,6 +19,7 @@ public class MainBoot {
         boolean pet = run.containsBean("pet");
         System.out.println("容器中user01组件："+pet);//true
         System.out.println("hot-hix分支");
+        System.out.println("测试冲突提交hot-hix======");
 
     }
 }
